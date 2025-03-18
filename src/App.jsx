@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import About from "./Components/About";
 import Cards from "./Components/Cards";
 import Context from "./Components/Context/FeaturedContext";
-import Cta from "./Components/CTA";
+import Cta from "./Components/Cta";
 import EyesBall from "./Components/EyesBall";
 import Featured from "./Components/Featured";
 import Footer from "./Components/Footer";
